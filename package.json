@@ -1,13 +1,13 @@
 {
-  "name": "expressbot",
+  "name": "JBot",
   "version": "1.2.5",
-  "description": "A good and functional Discord music and moderation bot in node.js.",
+  "description": "IDK",
   "main": "server.js",
   "scripts": {
     "stable": "node server.js"
   },
   "auto-updater": {
-    "repo": "ItzLightyHD/Express",
+    "repo": "Zuzzu1/Jbot",
     "branch": "master"
   },
   "dependencies": {
